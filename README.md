@@ -8,9 +8,9 @@ From what I gathered, when a website is blocked on Indian ISPs over http, an ifr
 
 My script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\/webadmin\/deny\/index\.php" to the one found on the blocked page to check if site is blocked
 
-The script is set to check top 1 million sites by Alexa from the url http://downloads.majestic.com/majestic_million.csv 
+The script is set to check top 1 million sites by Alexa from the url http://downloads.majestic.com/majestic_million.csv Make sure that this file is in same folder as the python script
 
-However, you can remove the CSV part all together and have it just read from a text file if you want
+However, you can remove the CSV part all together and have it just read from a text file if you want. 
 
 Output file snippet:
 
