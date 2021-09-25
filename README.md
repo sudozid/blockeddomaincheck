@@ -10,7 +10,9 @@ My script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\
 
 The script is set to check top 1 million sites by Alexa from the url http://downloads.majestic.com/majestic_million.csv Make sure that this file is in same folder as the python script
 
-However, you can remove the CSV part all together and have it just read from a text file if you want. 
+However, you can remove the CSV part all together and have it just read from a text file if you want.
+
+**NOTE: Keep in mind that there is no exception handling on this yet, so there is a chance that if network is unreliable, the script may fail to request and check certain sites.**
 
 Output file snippet:
 
