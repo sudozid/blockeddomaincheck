@@ -4,7 +4,14 @@ Check blocked domains on Indian ISPs
 This is a simple Python script for checking if a website is blocked by Indian ISPs. 
 From what I gathered, when a website is blocked on Indian ISPs over http, an iframe is inserted into the blocked page
 
+TATA Transit ISPs:
+
 ![jfjsd](https://user-images.githubusercontent.com/67092879/134776713-5e48dd3c-94b2-45ac-b4f3-77cbf17f87db.PNG)
+
+Airtel Transit ISP:
+
+![jfjsd](https://user-images.githubusercontent.com/67092879/134777499-3fc9ae93-d37d-4c89-857f-1bc6c3a631cc.PNG)
+
 
 My script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\/webadmin\/deny\/index\.php" to the one found on the blocked page to check if site is blocked
 
