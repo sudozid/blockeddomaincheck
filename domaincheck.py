@@ -16,7 +16,7 @@ sites.pop(0) #remove column header
 def get_url(x):
   x="http://"+x
   try:
-   y=requests.get(x,timeout=1,allow_redirects=False, verify=False)
+   y=requests.get(x,timeout=1,allow_redirects=False, verify=False,headers={'Connection':'close'})
   except:
    pass
   try:
