@@ -12,6 +12,14 @@ Airtel Transit ISP:
 
 ![jfjsd](https://user-images.githubusercontent.com/67092879/134777499-3fc9ae93-d37d-4c89-857f-1bc6c3a631cc.PNG)
 
+Airtel LTE:
+
+![jfjsd](https://user-images.githubusercontent.com/67092879/134777995-69f7aefa-5c13-427e-b99e-887714081da4.PNG)
+
+Jio LTE:
+
+![JIO](https://user-images.githubusercontent.com/67092879/134778036-ebc62f97-cbf7-4db1-a4cd-03b0b4bdcbd6.PNG)
+
 
 My script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\/webadmin\/deny\/index\.php" to the one found on the blocked page to check if site is blocked
 
