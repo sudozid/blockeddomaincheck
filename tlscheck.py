@@ -20,7 +20,8 @@ def check_ssl(x):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     ssl_sock = context.wrap_socket(s, server_hostname=x)
     try:
-        ssl_sock.connect(('216.58.196.174', 443))
+        ssl_sock.connect(('1.1.1.1', 443))
+        ssl_sock.close()
     except ConnectionResetError:
         w = open("blockedsites4.txt", "a")
         w.write("\n" + x)
