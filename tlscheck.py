@@ -26,7 +26,7 @@ sites=list(sites)
 def check_ssl(x):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     ssl_sock = context.wrap_socket(s, server_hostname=x)
-    ssl_sock.settimeout(3.0)
+    ssl_sock.settimeout(3.0) #isp block should reply quickly, thats why timeout is set low
     try:
         ssl_sock.connect(('1.1.1.1', 443))
         ssl_sock.close()
@@ -43,8 +43,8 @@ def check_ssl(x):
         ssl_sock.close()
         pass
     except Exception as e:
-        ssl_sock.close()
-        print(e)
+        ssl_sock.close() 
+        print(e) #print any other exception other than timeout and sslcert error
 
 for z in sites:
     with ThreadPoolExecutor(max_workers=32) as pool:
