@@ -1,7 +1,7 @@
 # Indian ISP Blocked Domain Checker
 Check blocked domains on Indian ISPs
 
-#Method 1 (SSL Connection checking) TLSCheck.py
+**Method 1 (SSL Connection checking) TLSCheck.py**
 
 Over https, sites are blocked by checking for Server Name Indication (SNI). In order to prevent false positives, I have set the script to connect to IP Address of Google.com (you can use any web server with https if you want). However, instead of supplying hostname "google.com", the 1 Million sites are supplied instead. This ensures that false positives from Connection Resets for other reasons should be zero. 
 
@@ -9,9 +9,9 @@ This method has a few advantages, First, it doesn't require DNS Resolution becau
 
 However, if your ISP doesn't block https, this will not work.
 
-#Method 2 (HTTP Scraping) domaincheck.py
+**#Method 2 (HTTP Scraping) domaincheck.py**
 
-Use Method 1 unless your ISP doesn't block https.
+**Use Method 1 unless your ISP doesn't block https.**
 
 This is a simple Python script for checking if a website is blocked by Indian ISPs. 
 From what I gathered, when a website is blocked on Indian ISPs over http, an iframe is inserted into the blocked page
