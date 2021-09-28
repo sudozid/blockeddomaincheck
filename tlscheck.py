@@ -27,7 +27,9 @@ def check_ssl(x):
         w.write("\n" + x)
         print( x + " is blocked")
         w.close()
+        ssl_sock.close()
     except:
+        ssl_sock.close()
         pass
 
 with ThreadPoolExecutor(max_workers=40) as pool:
