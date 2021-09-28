@@ -1,6 +1,18 @@
 # Indian ISP Blocked Domain Checker
 Check blocked domains on Indian ISPs
 
+#Method 1 (SSL Connection checking) TLSCheck.py
+
+Over https, sites are blocked by checking for Server Name Indication (SNI). In order to prevent false positives, I have set the script to connect to IP Address of Google.com (you can use any web server with https if you want). However, instead of supplying hostname "google.com", the 1 Million sites are supplied instead. This ensures that false positives from Connection Resets for other reasons should be zero. 
+
+This method has a few advantages, First, it doesn't require DNS Resolution because SNI is simply the hostname. IP Address remains constant. Secondly, it is faster and uses less CPU because creating a simple SSL Socket is way faster and simpler than scraping an entire http document.
+
+However, if your ISP doesn't block https, this will not work.
+
+#Method 2 (HTTP Scraping) domaincheck.py
+
+Use Method 1 unless your ISP doesn't block https.
+
 This is a simple Python script for checking if a website is blocked by Indian ISPs. 
 From what I gathered, when a website is blocked on Indian ISPs over http, an iframe is inserted into the blocked page
 
@@ -21,7 +33,7 @@ Jio LTE:
 ![JIO](https://user-images.githubusercontent.com/67092879/134778036-ebc62f97-cbf7-4db1-a4cd-03b0b4bdcbd6.PNG)
 
 
-My script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\/webadmin\/deny\/index\.php" to the one found on the blocked page to check if site is blocked
+This script matches the regex to in the format "\<iframe src\=\"http\:\/\/.*:8080\/webadmin\/deny\/index\.php" to the one found on the blocked page to check if site is blocked
 
 The script is set to check top 1 million sites by Alexa from the url http://downloads.majestic.com/majestic_million.csv Make sure that this file is in same folder as the python script
 
