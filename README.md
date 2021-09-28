@@ -3,7 +3,7 @@ Check blocked domains on Indian ISPs
 
 **Method 1 (SSL Connection checking) TLSCheck.py**
 
-Over https, sites are blocked by checking for Server Name Indication (SNI). In order to prevent false positives, I have set the script to connect to IP Address of Google.com (you can use any web server with https if you want). However, instead of supplying hostname "google.com", the 1 Million sites are supplied instead. This ensures that false positives from Connection Resets for other reasons should be zero. 
+Over https, sites are blocked by checking for Server Name Indication (SNI). In order to prevent false positives, I have set the script to connect to 1.1.1.1 (you can use any web server with https if you want as long as they don't block for too many requests). However, instead of supplying hostname "one.one.one.one", the 1 Million sites are supplied instead. This ensures that false positives from Connection Resets for other reasons should be zero. 
 
 This method has a few advantages, First, it doesn't require DNS Resolution because SNI is simply the hostname. IP Address remains constant. Secondly, it is faster and uses less CPU because creating a simple SSL Socket is way faster and simpler than scraping an entire http document.
 
