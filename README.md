@@ -41,12 +41,5 @@ However, you can remove the CSV part all together and have it just read from a t
 
 **NOTE: Keep in mind that there is no exception handling on this yet, so there is a chance that if network is unreliable, the script may fail to request and check certain sites.**
 
-Output file snippet:
-
-![jfjsd](https://user-images.githubusercontent.com/67092879/134776868-bd23889d-5776-4eb7-8ff2-4ecf4707085d.PNG)
-
-Console output:
-
-![jfjsd](https://user-images.githubusercontent.com/67092879/134776895-cc20d926-f50c-4b2b-b69c-bceb57a8ff0e.PNG)
 
 Feel free to change code however you like
