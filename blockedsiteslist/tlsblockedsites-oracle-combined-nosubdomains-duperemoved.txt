@@ -485,6 +485,7 @@
 123movieshd.one
 123movieshd.online
 123movieshd.org
+123movieshd.watch
 123movieshd.win
 123movieshd.world
 123movieshdz.com
@@ -1306,6 +1307,7 @@
 7movierulz.mn
 7movierulz.ms
 7movierulz.top
+7movierulz.work
 7movierulz.wtf
 7movierulzfree.me
 7pmovies.com
@@ -5851,6 +5853,7 @@ filmyhit.trade
 filmyhit.tv
 filmyhit.video
 filmyhit.website
+filmyhit.wtf
 filmyhit.xyz
 filmyhithd.com
 filmyhits.co
@@ -11457,6 +11460,7 @@ movies2u.co
 movies2u.in
 movies2u.life
 movies2u.live
+movies2u.world
 movies2uwatch.com
 movies30.com
 movies32.online
@@ -12147,6 +12151,7 @@ moviezaddiction.space
 moviezaddiction.us
 moviezaddiction.vip
 moviezaddiction.website
+moviezaddiction.xyz
 moviezapak.com
 moviezarena.com
 moviezcinema.com
@@ -12491,6 +12496,7 @@ mycima.show
 mycima.to
 mycima.uno
 mycima.video
+mycima.win
 mycinemas.co
 mycoolmoviez.app
 mycoolmoviez.cc
@@ -15683,6 +15689,7 @@ snapdealai.com
 snapdealcashbackoffers.in
 snapdealcircle.com
 snapdealcloud.com
+snapdealcloud.net
 snapdealcom.com
 snapdealcomplain.com
 snapdealcontest.com
@@ -20297,6 +20304,7 @@ zippymoviez.me
 zippymoviez.top
 zippymoviez.us
 ziptorrents.com
+ziptras.com
 zirzir.ru
 ziveprenosy.cz
 zixpix.com
