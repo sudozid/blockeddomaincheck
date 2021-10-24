@@ -9364,6 +9364,7 @@ kickass.green
 kickass.id
 kickass.kim
 kickass.love
+kickass.me.uk
 kickass.name
 kickass.one
 kickass.onl
@@ -17874,6 +17875,7 @@ tor-cr.net
 tor-cr.org
 tor-linder.ru
 tor-torrentz.com
+torache.com
 torcache.net
 torcache.pro
 torenbit.com
