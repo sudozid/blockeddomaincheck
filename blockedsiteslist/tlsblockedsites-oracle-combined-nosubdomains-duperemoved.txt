@@ -312,6 +312,7 @@
 123movies.link
 123movies.london
 123movies.love
+123movies.lv
 123movies.market
 123movies.md
 123movies.men
@@ -741,6 +742,7 @@
 1337xhd.icu
 1337xhd.in
 1337xhd.link
+1337xhd.live
 1337xhd.me
 1337xhd.mobi
 1337xhd.net
@@ -1309,6 +1311,7 @@
 7hitmovies.icu
 7hitmovies.in
 7hitmovies.life
+7hitmovies.live
 7hitmovies.monster
 7hitmovies.one
 7hitmovies.online
@@ -1381,6 +1384,7 @@
 7starhd.link
 7starhd.loan
 7starhd.lol
+7starhd.london
 7starhd.ltd
 7starhd.me
 7starhd.media
@@ -1547,7 +1551,9 @@
 9anime.app
 9anime.at
 9anime.city
+9anime.life
 9anime.live
+9anime.love
 9anime.nl
 9anime.one
 9anime.ru
@@ -2150,6 +2156,7 @@ amulindiadistributors.com
 amunama.space
 amznhd.com
 amznhd.me
+anaconda5.live
 anakbnet.co
 anakeb-net.com
 anal4porn.com
@@ -2987,6 +2994,7 @@ biggboss.fun
 biggboss.guru
 biggboss.im
 biggboss.io
+biggboss.link
 biggboss.live
 biggboss.onl
 biggboss.show
@@ -5462,6 +5470,7 @@ etmirror.com
 etmirror.xyz
 etmovie.net
 etorrent.co.kr
+etorrent.kr
 etproxy.com
 etproxy.top
 etproxy.xyz
@@ -6744,6 +6753,7 @@ full-bluray.pro
 full-movies.in
 full123movies.me
 full2entertain.com
+full2movie.link
 full2movies.com
 full4movie.cc
 full4movie.com
@@ -9487,6 +9497,7 @@ kickass2.de
 kickass2.fun
 kickass2.how
 kickass2.info
+kickass2.li
 kickass2.mobi
 kickass2.nz
 kickass2.online
@@ -9564,6 +9575,7 @@ kickasstorrents.email
 kickasstorrents.fun
 kickasstorrents.icu
 kickasstorrents.id
+kickasstorrents.li
 kickasstorrents.mobi
 kickasstorrents.nz
 kickasstorrents.space
@@ -11543,6 +11555,7 @@ movieocean.net
 movieon21.bid
 movieon21.click
 movieon21.club
+movieon21.link
 movieon21.online
 movieon4u.com
 movieon4u.net
@@ -17499,6 +17512,7 @@ thekat.app
 thekat.cc
 thekat.ch
 thekat.info
+thekat.li
 thekat.nl
 thekat.nz
 thekat.se
@@ -18631,6 +18645,7 @@ unblocked.is
 unblocked.krd
 unblocked.la
 unblocked.lc
+unblocked.live
 unblocked.llc
 unblocked.lol
 unblocked.love
@@ -18953,6 +18968,7 @@ vegamovies.host
 vegamovies.ind.in
 vegamovies.kim
 vegamovies.life
+vegamovies.link
 vegamovies.live
 vegamovies.me
 vegamovies.net
@@ -20440,6 +20456,7 @@ yesmovies.fm
 yesmovies.fun
 yesmovies.gg
 yesmovies.guru
+yesmovies.li
 yesmovies.lol
 yesmovies.love
 yesmovies.mom
@@ -20485,6 +20502,7 @@ yify-yify.net
 yify.best
 yify.bz
 yify.is
+yify.la
 yify.onl
 yify123.com
 yifybrowser.com
