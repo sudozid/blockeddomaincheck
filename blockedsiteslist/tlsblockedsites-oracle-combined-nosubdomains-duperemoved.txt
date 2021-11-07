@@ -280,6 +280,7 @@
 123movies.cx
 123movies.dev
 123movies.direct
+123movies.dj
 123movies.dog
 123movies.domains
 123movies.ee
@@ -2902,6 +2903,7 @@ besthdmovies.best
 besthdmovies.blog
 besthdmovies.com
 besthdmovies.cool
+besthdmovies.download
 besthdmovies.fit
 besthdmovies.fun
 besthdmovies.fyi
@@ -5706,6 +5708,7 @@ extratorrent.ch
 extratorrent.com
 extratorrent.cool
 extratorrent.date
+extratorrent.dj
 extratorrent.es
 extratorrent.fyi
 extratorrent.host
@@ -7466,6 +7469,7 @@ gomoviesfree.sc
 gomoviesfree.vip
 gomoviesfull.co
 gomoviesgomovies.com
+gomovieshd.direct
 gomovieshd.is
 gomovieshindi.com
 gomovieshub.in
