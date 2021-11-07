@@ -5644,6 +5644,7 @@ extra-movies.in
 extra-torrent-cc.top
 extra-torrent.club
 extra-torrent.online
+extra-torrent.org
 extra-torrents.club
 extra.to
 extra2.to
@@ -6835,6 +6836,7 @@ fridata.ru
 fridaycinemas.co
 fridaycinemas.info
 fridaycinemas.net
+fridaycinemas.org
 fridaymovies.pro
 fridaysource.com
 friendsstudio.wapka.me
