@@ -125,6 +125,7 @@
 123-movies.club
 123-movies.im
 123-movies.nz
+123-movies.page
 123-putlocker.com
 123-putlockers.com
 123-watch.club
@@ -336,6 +337,7 @@
 123movies.online
 123movies.page
 123movies.partners
+123movies.pe
 123movies.ph
 123movies.pics
 123movies.pictures
@@ -1594,6 +1596,7 @@
 9anime.love
 9anime.nl
 9anime.one
+9anime.page
 9anime.ru
 9anime.to
 9anime.video
@@ -3292,6 +3295,7 @@ bmovies.to
 bmovies.video
 bmovies.vip
 bmoviesfree.net
+bmoviesfree.page
 bmovieshd.com
 bnmovies.pw
 boardlinks.ga
@@ -3323,6 +3327,7 @@ bolly4u.cc
 bolly4u.click
 bolly4u.co
 bolly4u.co.in
+bolly4u.com.co
 bolly4u.cool
 bolly4u.cyou
 bolly4u.fit
@@ -4193,6 +4198,7 @@ coolmoviezone.bz
 coolmoviezone.casa
 coolmoviezone.cloud
 coolmoviezone.club
+coolmoviezone.cymru
 coolmoviezone.design
 coolmoviezone.fun
 coolmoviezone.guru
@@ -4236,6 +4242,7 @@ coretorrents.com
 corridor2khalistan.info
 corridor2khalistan.org
 cortast.ru
+couchtuner.page
 couchtuner.tv
 couchtuner0.com
 couchtuners.co
@@ -4324,6 +4331,7 @@ cricfreetv.live
 crichd.ac
 crichd.co
 crichd.com
+crichd.cricket
 crichd.cx
 crichd.gg
 crichd.info
@@ -4820,6 +4828,7 @@ desiremovies.cam
 desiremovies.casa
 desiremovies.click
 desiremovies.co
+desiremovies.cyou
 desiremovies.email
 desiremovies.fit
 desiremovies.guru
@@ -6554,6 +6563,7 @@ fmoviescat.com
 fmoviesf.co
 fmoviesfree.net
 fmoviesfree.org
+fmoviesfree.page
 fmoviesgo.eu
 fmoviesgo.fr
 fmoviesgo.net
@@ -7560,6 +7570,7 @@ gorgias.link
 goscr.to
 gosilo.club
 gostream.bz
+gostream.cx
 gostream.digital
 gostream.es
 gostream.fun
@@ -8143,6 +8154,7 @@ hdmoviezhub.net
 hdmoviezroot.in
 hdmoviz.cloud
 hdmoviz.co.in
+hdmoviz.cyou
 hdmoviz.fun
 hdmoviz.icu
 hdmoviz.monster
@@ -8809,6 +8821,7 @@ imov13.com
 imovie-time.cam
 imovie-time.cc
 imovie-time.co
+imovieflixs.co
 imovierulz.com
 imovies4you.com
 imoviezwap.club
@@ -8991,6 +9004,7 @@ isaitamila.co
 isansar.co
 isansar.com
 iscindia.org
+isharatv.co
 isharemybitch.com
 isharoisharomein.su
 isharoisharomeinserial.com
@@ -17627,6 +17641,7 @@ tamilyogi.com
 tamilyogi.cool
 tamilyogi.fm
 tamilyogi.me
+tamilyogi.org
 tamilyogi.org.in
 tamilyogi.to
 tamilyogi.top
