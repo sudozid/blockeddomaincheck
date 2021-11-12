@@ -15355,6 +15355,7 @@ putlockerfree.su
 putlockerfree.video
 putlockerfree.world
 putlockerfree.ws
+putlockerfree2.com
 putlockerfree4u.com
 putlockerfree9.info
 putlockerfreely.com
