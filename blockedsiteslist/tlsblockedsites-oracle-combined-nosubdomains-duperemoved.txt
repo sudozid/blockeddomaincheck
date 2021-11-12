@@ -4180,6 +4180,7 @@ colorstv.su
 com-view.space
 com.de
 com.se
+comandohdtorrent.net
 comandotorrents.com
 comelygirls.club
 comelygirls.space
@@ -16700,6 +16701,7 @@ soap2day.cc
 soap2day.ru
 soap2day.to
 soap2day.video
+soap2days.net
 soapgate.online
 soapgate.org
 sobatmovie21.club
