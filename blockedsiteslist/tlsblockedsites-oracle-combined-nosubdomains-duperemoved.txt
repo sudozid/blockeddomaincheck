@@ -2698,6 +2698,8 @@ bayproxy.tel
 bb14.net
 bb14live.com
 bb15.su
+bb15live.com
+bb15watch.com
 bbcmp3.com
 bbhgvidz.com
 bbl009.ru
@@ -14428,6 +14430,7 @@ pelis28.nu
 pelisenhd.net
 pelislove.com
 pelismegahd.pe
+pelispe.com
 pelisplus.icu
 pelisplus.li
 pelisplus.online
@@ -20095,6 +20098,7 @@ watchhallmarkmovies.com
 watchhdmovies.info
 watchhdmovies.online
 watchhdmovies4free.com
+watchhdseries.com
 watchhindidramas.com
 watchhindiserials.com
 watchify.net
