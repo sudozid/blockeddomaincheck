@@ -10070,6 +10070,7 @@ klwap.eu
 klwap.in
 klwap.it
 klwap.me
+klwap.nl
 klwap.one
 klwap.org
 klwap.site
@@ -11379,6 +11380,7 @@ mkvcinemas.link
 mkvcinemas.live
 mkvcinemas.lol
 mkvcinemas.me
+mkvcinemas.nl
 mkvcinemas.pm
 mkvcinemas.pro
 mkvcinemas.pw
