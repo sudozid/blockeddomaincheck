@@ -8205,6 +8205,7 @@ hdmovie99.best
 hdmovie99.bid
 hdmovie99.biz
 hdmovie99.cam
+hdmovie99.cc
 hdmovie99.club
 hdmovie99.co
 hdmovie99.com
@@ -14624,6 +14625,7 @@ openloadstream.com
 openloadtv.co
 openloadtv.com
 openloadtvstream.me
+openpirate.cc
 openpirate.icu
 openpirate.info
 openpirate.net
