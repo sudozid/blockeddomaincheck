@@ -417,6 +417,7 @@
 123movies4u.me
 123movies4u.one
 123movies4u.org
+123movies4u.pro
 123movies4u.ru
 123movies4u.top
 123movies4u.vip
@@ -1320,6 +1321,7 @@
 5movies.cloud
 5movies.fm
 5movies.is
+5movies.pro
 5movies.pw
 5movies.ru
 5movies.to
