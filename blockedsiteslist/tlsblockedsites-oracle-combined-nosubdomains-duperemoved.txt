@@ -9281,6 +9281,7 @@ khatrimaza.plus
 khatrimaza.press
 khatrimaza.pro
 khatrimaza.pw
+khatrimaza.quest
 khatrimaza.red
 khatrimaza.rest
 khatrimaza.rocks
@@ -11494,6 +11495,7 @@ movieonline.tv
 movieonline365.com
 movieora.com
 movieorange.com
+movieorca.pro
 movieort.com
 movieort.net
 moviepanda.co.in
@@ -13933,6 +13935,7 @@ pikalox.ru
 pikashow.info
 pikashow.net
 pikashow.org
+pikashow.pro
 pikwalz.ru
 pilot-network.co.uk
 pimpandhost.com
@@ -14033,6 +14036,7 @@ piratebay.kim
 piratebay.life
 piratebay.live
 piratebay.party
+piratebay.pw
 piratebay.red
 piratebay.run
 piratebay.site
@@ -14736,6 +14740,7 @@ putlocker.one
 putlocker.onl
 putlocker.page
 putlocker.pics
+putlocker.ps
 putlocker.sexy
 putlocker.tf
 putlocker.tl
@@ -20175,6 +20180,7 @@ yfk.org.pk
 ygniece.com
 yifimoviedownload.com
 yify-movies.net
+yify-movies.pro
 yify-movies.top
 yify-torrent.cc
 yify-torrent.net
@@ -20198,6 +20204,7 @@ yifyhdtorrent.net
 yifyhdtorrent.org
 yifymovies.biz
 yifymovies.cam
+yifymovies.pro
 yifymovies3.xyz
 yifysub.net
 yifysubtitles.info
