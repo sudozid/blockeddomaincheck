@@ -7331,6 +7331,7 @@ gostream.es
 gostream.fun
 gostream.is
 gostream.nu
+gostream.one
 gostream.pl
 gostream.sc
 gostream.site
