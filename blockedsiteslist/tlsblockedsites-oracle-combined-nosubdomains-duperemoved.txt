@@ -5425,6 +5425,7 @@ embedfix.com
 embedrip.to
 embedscr.to
 embedstream.com
+embedstream.me
 embedstv.com
 embeducaster.com
 embedv.com
@@ -5946,6 +5947,7 @@ filmwapi.in
 filmwatch.net
 filmxy.bid
 filmxy.cc
+filmxy.live
 filmxy.me
 filmxy.nl
 filmxy.one
@@ -6396,6 +6398,7 @@ fmovies2.io
 fmovies2.tv
 fmovies21.com
 fmovies2u.com
+fmoviesapp.live
 fmoviesc.co
 fmoviesc.com
 fmoviesc.to
@@ -7334,6 +7337,7 @@ gopy.xyz
 gordotorrents.tv
 gorgias.link
 goscr.to
+goseries.me
 gosilo.club
 gostream.bz
 gostream.cx
@@ -7629,6 +7633,7 @@ hdhub4u.cloud
 hdhub4u.club
 hdhub4u.co
 hdhub4u.com
+hdhub4u.cool
 hdhub4u.fit
 hdhub4u.fun
 hdhub4u.host
@@ -7912,6 +7917,7 @@ hdmusic22.net
 hdmusic23.com
 hdmusic24.club
 hdmusic25.com
+hdmusic25.me
 hdmusic26.com
 hdmusic27.com
 hdmusic30.com
@@ -7971,6 +7977,7 @@ hdsoccerstreams.net
 hdstreamz.app
 hdstreamz.cc
 hdstreamz.in
+hdstreamz.me
 hdstreamz.pro
 hdstreamzapk.com
 hdstreamzforpcdl.com
@@ -8127,6 +8134,7 @@ hindimhub.in
 hindimirchi.com
 hindimovie.fun
 hindimovie.me
+hindimovies.live
 hindimovies.net.in
 hindimovies.site
 hindimovies.su
@@ -8570,6 +8578,7 @@ indiamoviehd.net
 indiamovies.cf
 indiamp3.com
 indianabones.buzz
+indiandrama.live
 indiandramaonline.com
 indiandramas.su
 indiandramaserials.xyz
@@ -11499,6 +11508,7 @@ moviemp4hd.com
 moviemp4hd.in
 moviemp4hd.me
 moviemsala.com
+movienest.me
 movienews.club
 movienoe.com
 movienolimit.to
@@ -11857,6 +11867,7 @@ moviesboards.live
 moviesboss.xyz
 moviesbox.online
 moviesbuddy.club
+moviesbuddy.me
 moviesbuddy.net
 moviesbuzz.me
 moviesbytes.cc
@@ -13365,6 +13376,7 @@ nudmolopic.men
 nuefliks.club
 nuefliks.icu
 nuefliks.net
+nufilm.live
 numaturewomen.com
 numberoneplace.ru
 numoms.com
@@ -13418,6 +13430,7 @@ ofilmywap.de
 ofilmywap.desi
 ofilmywap.fit
 ofilmywap.golf
+ofilmywap.lol
 ofilmywap.mobi
 ofilmywap.one
 ofilmywap.red
@@ -13700,6 +13713,7 @@ openloadmovies.ac
 openloadmovies.bz
 openloadmovies.ch
 openloadmovies.cx
+openloadmovies.live
 openloadmovies.ltd
 openloadmovies.me
 openloadmovies.mobi
@@ -14878,6 +14892,7 @@ putlockers.gy
 putlockers.info
 putlockers.la
 putlockers.li
+putlockers.me
 putlockers.mn
 putlockers.name
 putlockers.net
@@ -16117,6 +16132,7 @@ snsrsvchost.com
 snsrsvchost.net
 soap2day.ac
 soap2day.cc
+soap2day.ma
 soap2day.ru
 soap2day.to
 soap2day.video
@@ -17040,6 +17056,7 @@ tamilserialtoday-247.net
 tamilserialtoday.net
 tamilserialtoday.org
 tamilserialtoday247.net
+tamilshow.live
 tamilshows.net
 tamilsky.net
 tamilsub.net
@@ -17081,6 +17098,7 @@ tamilyogi.cc
 tamilyogi.com
 tamilyogi.cool
 tamilyogi.fm
+tamilyogi.live
 tamilyogi.me
 tamilyogi.org
 tamilyogi.org.in
@@ -17781,6 +17799,7 @@ todaypkmovies.ml
 todaypkmovies.net
 todaypkmovieshd.com
 todaypktv.com
+todaypktv.me
 todaytk.com
 todaytvseries.bid
 todaytvseries.club
@@ -18750,6 +18769,7 @@ vegamovies.club
 vegamovies.co
 vegamovies.co.in
 vegamovies.com
+vegamovies.cool
 vegamovies.dev
 vegamovies.fit
 vegamovies.fun
@@ -19344,6 +19364,7 @@ watchobucket.com
 watchofree.com
 watchomovies.cc
 watchomovies.com
+watchomovies.me
 watchomovies.org
 watchomovies.to
 watchonbed.ru
@@ -20516,6 +20537,7 @@ zatta11.su
 zavideo.net
 zazagirls.com
 zazaseva.cf
+zazawapp.com
 zazozo.buzz
 zedge.xyz
 zedgers.wapka.me
