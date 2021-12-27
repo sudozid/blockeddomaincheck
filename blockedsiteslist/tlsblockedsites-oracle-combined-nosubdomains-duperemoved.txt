@@ -730,6 +730,8 @@
 1337x.best
 1337x.biz
 1337x.buzz
+1337x.cc
+1337x.center
 1337x.cm
 1337x.com
 1337x.cx
@@ -2929,6 +2931,7 @@ besthd.club
 besthd.in
 besthdmovies.best
 besthdmovies.blog
+besthdmovies.cc
 besthdmovies.com
 besthdmovies.cool
 besthdmovies.download
@@ -3085,6 +3088,7 @@ biggboss-14.com
 biggboss-14.ru
 biggboss-14.su
 biggboss-14tv.com
+biggboss.cc
 biggboss.club
 biggboss.co
 biggboss.fun
@@ -3548,6 +3552,7 @@ borteloo.click
 bosmat.site
 bosscast.net
 bossiper.com
+bossmobi.cc
 bossmobi.co
 bossmobi.com
 bossmobi.guru
@@ -4677,6 +4682,7 @@ desi-drama.net
 desi-radio.com
 desi-rulez.net
 desi-serial.su
+desi-serials.cc
 desi-serials.co
 desi-serials.me
 desi-serials.org
@@ -4748,6 +4754,7 @@ desiplex.io
 desiplex.me
 desiplex.su
 desirecap.com
+desirehub.cc
 desirehub.net
 desirehub.xyz
 desiremovie.top
@@ -11586,6 +11593,7 @@ movierulz.at
 movierulz.be
 movierulz.best
 movierulz.buzz
+movierulz.ca
 movierulz.ch
 movierulz.click
 movierulz.cloud
@@ -17013,6 +17021,7 @@ tamilrockers.ac
 tamilrockers.al
 tamilrockers.at
 tamilrockers.be
+tamilrockers.ca
 tamilrockers.cam
 tamilrockers.cc
 tamilrockers.club
@@ -17128,6 +17137,7 @@ tamilvoot.com
 tamilwire.net
 tamilyogi.bid
 tamilyogi.biz
+tamilyogi.ca
 tamilyogi.cc
 tamilyogi.com
 tamilyogi.cool
