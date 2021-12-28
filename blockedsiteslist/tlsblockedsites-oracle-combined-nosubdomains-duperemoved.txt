@@ -205,6 +205,7 @@
 123movie.care
 123movie.cc
 123movie.co.in
+123movie.fit
 123movie.fm
 123movie.mn
 123movie.mobi
@@ -735,6 +736,7 @@
 1337x.cm
 1337x.com
 1337x.cx
+1337x.eu
 1337x.fit
 1337x.fun
 1337x.gd
@@ -2342,6 +2344,7 @@ apkcombo.com
 apkinazronnesamjha.com
 apkland.tv
 apkmovies.com
+apkpure.com
 apktada.com
 apkxyz.com
 aplaytamil.in
@@ -4984,6 +4987,7 @@ divicast.org
 divisionclans.com
 divorcelawyers.buzz
 divxfilmeonline.net
+divxstage.eu
 divxstage.to
 divyadrishti.net
 dixvi.com
@@ -6987,6 +6991,7 @@ gamarun.ru
 gambarnakal.com
 gambyan.buzz
 gamcore.com
+gameofbay.eu
 gameofbay.org
 gammp.wapka.me
 gamovideo.com
@@ -10570,6 +10575,7 @@ manatelugumovies.cc
 manatelugumovies.net
 manateluguradio.com
 mandelina.info
+mangalamdangalamepisode.com
 manipurmp3tk.wapka.me
 manmohinii.net
 mansi-mathur.com
@@ -11636,6 +11642,7 @@ movierulz.cx
 movierulz.direct
 movierulz.email
 movierulz.es
+movierulz.eu
 movierulz.fun
 movierulz.gd
 movierulz.gg
@@ -15351,6 +15358,7 @@ rkmovieszone.site
 rkmovieszone.xyz
 rls-movies.com
 rlsbb.com
+rlsbb.eu
 rlsbb.ru
 rlsbb.to
 rlsbb.uno
@@ -16520,6 +16528,7 @@ sportlemon24.com
 sportlive.me
 sportlive.site
 sportlive2.com
+sportlive247.com
 sportlivetv.cc
 sportp2p.com
 sports-stream.net
@@ -16600,6 +16609,7 @@ starelse.com
 starflix.link
 starhd25.com
 starkar.ru
+starkxtv.com
 starmasti.com
 starmob.in
 starmovies.info
@@ -16743,6 +16753,7 @@ submitmyvideo.com
 submityourflicks.com
 submityourflicks.ru
 submityourtapes.com
+submobi.com
 subscene.com
 subscene.ee
 subscene.site
@@ -16771,6 +16782,7 @@ sumotorrent.sx
 sundarbann.com
 sunhd.info
 sunhd24.com
+sunnahonline.com
 sunnyday4k.ml
 sunochanda.online
 sunomusic.com
@@ -17181,6 +17193,7 @@ tamilyogi.ca
 tamilyogi.cc
 tamilyogi.com
 tamilyogi.cool
+tamilyogi.eu
 tamilyogi.fm
 tamilyogi.live
 tamilyogi.me
@@ -18281,6 +18294,7 @@ tpblist.org
 tpblist.top
 tpblist.us
 tpblist.xyz
+tpbmirror.eu
 tpbmirror.nl
 tpbmirror.org
 tpbmirror.us
@@ -20415,6 +20429,7 @@ yolike.com
 yomovies.art
 yomovies.club
 yomovies.co
+yomovies.eu
 yomovies.fun
 yomovies.is
 yomovies.it
