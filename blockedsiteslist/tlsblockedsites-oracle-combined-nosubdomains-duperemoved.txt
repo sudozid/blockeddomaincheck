@@ -337,6 +337,7 @@
 123movies.name
 123movies.navy
 123movies.net
+123movies.ng
 123movies.one
 123movies.online
 123movies.page
@@ -770,6 +771,7 @@
 1337x.la
 1337x.li
 1337x.lol
+1337x.nl
 1337x.nu
 1337x.one
 1337x.pl
@@ -12163,6 +12165,7 @@ movies123.li
 movies123.live
 movies123.ltd
 movies123.mobi
+movies123.ninja
 movies123.online
 movies123.pics
 movies123.pk
@@ -17233,6 +17236,7 @@ starmusic24.com
 starmusichd.com
 starmusichd.me
 starmusiq.com
+starmusiq.net
 starmusiq.vip
 starmusiq.xyz
 starnetmovie.com
@@ -18081,6 +18085,7 @@ tevhididavet.com
 tgirls.com
 tgo-tv.co
 tgo-tv.com
+tgo-tv.net
 tgo-tv.se
 tgplistz.ga
 tgpmaturewoman.com
@@ -19129,6 +19134,7 @@ tv-online.im
 tv-sport-hd.com
 tv4embed.com
 tv4embed.net
+tv4you.net
 tvad.me
 tvbaj.com
 tvball7.com
@@ -19503,6 +19509,7 @@ urbanmovies.in
 urbanproxy.eu
 urcute.pw
 urdudramas.com
+urdudramas.net
 url.cn
 urservices.net
 ursongspk.com
@@ -19764,6 +19771,7 @@ vidshare.us
 vidsmyarch.ga
 vidspeed.net
 vidspeeds.com
+vidspot.net
 vidsshare.com
 vidto.me
 vidto.se
@@ -20002,6 +20010,7 @@ wapocean.com
 waprocks.in
 wapshared.com
 wapsuper.com
+waptamil.net
 waptrick.one
 waptubes.net
 wapwon.cc
@@ -20842,6 +20851,7 @@ xstream.click
 xtapes.ru
 xteentube.net
 xtorrentmovies.com
+xtorrents.net
 xtrafirstlol.ga
 xtrapinkly.buzz
 xtrasweet.tk
@@ -21056,6 +21066,7 @@ yehrishtakyakehlatahaionline.com
 yehrishtakyakehlatahy.net
 yehrishtakyakehlataserial.com
 yehrishtaserial.com
+yehrishtaserial.net
 yehrishtatv.net
 yehrishtehainpyaarke.net
 yehrishteyhain.com
@@ -21395,6 +21406,7 @@ ytsmx.sbs
 ytsnew.com
 ytson.com
 ytson.live
+ytson.net
 ytssubtitles.com
 ytssubtitles.org
 ytstorrenthd.com
@@ -21440,6 +21452,7 @@ zee5.mobi
 zee99.com
 zeefiles.download
 zeehd.net
+zeetamil.net
 zeetamilserial.online
 zeetv.su
 zelevva.site
