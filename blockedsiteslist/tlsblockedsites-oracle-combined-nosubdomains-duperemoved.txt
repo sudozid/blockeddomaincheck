@@ -183,6 +183,7 @@
 123mkv.fit
 123mkv.fun
 123mkv.fyi
+123mkv.host
 123mkv.info
 123mkv.ink
 123mkv.kim
@@ -577,6 +578,7 @@
 123moviesla.blog
 123moviesla.com
 123moviesla.fun
+123moviesla.haus
 123moviesla.life
 123movieslab.com
 123movieslatest.com
@@ -1451,6 +1453,7 @@
 7starhd.fashion
 7starhd.fit
 7starhd.fyi
+7starhd.guru
 7starhd.info
 7starhd.ink
 7starhd.kim
@@ -1797,6 +1800,7 @@
 9xmovies.fyi
 9xmovies.gold
 9xmovies.green
+9xmovies.group
 9xmovies.guru
 9xmovies.help
 9xmovies.host
@@ -5298,6 +5302,7 @@ downloadhub.dev
 downloadhub.fans
 downloadhub.fit
 downloadhub.fun
+downloadhub.guru
 downloadhub.host
 downloadhub.icu
 downloadhub.ind.in
@@ -5810,6 +5815,7 @@ extramovies.co
 extramovies.cool
 extramovies.fit
 extramovies.fun
+extramovies.guru
 extramovies.host
 extramovies.in
 extramovies.info
@@ -8026,6 +8032,7 @@ hdmoviedrive.ml
 hdmoviedrive.tech
 hdmoviedrive.xyz
 hdmoviees.com
+hdmoviefair.host
 hdmoviego.com
 hdmoviehell.com
 hdmoviehubs.club
@@ -8178,6 +8185,7 @@ hdmoviz.club
 hdmoviz.co.in
 hdmoviz.cyou
 hdmoviz.fun
+hdmoviz.host
 hdmoviz.icu
 hdmoviz.monster
 hdmoviz.net
@@ -8671,6 +8679,7 @@ hqpornbook.xyz
 hqtamil.com
 hqtube.xyz
 hqvdo.com
+hrhak.com
 hridoybd.com
 ht-bangladesh.info
 huaitao.club
@@ -8817,6 +8826,7 @@ imasti.me
 imasti.net
 imaturewomen.com
 imax21.com
+imcmovie.com
 imgbbs.cf
 imgbox.com
 imgforfree.win
@@ -8881,6 +8891,7 @@ indiaidol.net
 indiainquirycomplaints.in
 indiaisgreates.wapka.me
 indiamovie.in
+indiamoviehd.com
 indiamoviehd.net
 indiamovies.cf
 indiamp3.com
@@ -8922,6 +8933,7 @@ indianwap.mobi
 indianwap.net
 indianwebseries.me
 indiapassporttravel.com
+indiapirate.com
 indiapirate.org
 indiavisainfo.com
 indiawalimaa.com
@@ -8934,6 +8946,7 @@ indomoviez.xyz
 indonime.wapka.me
 indopia.com
 indoshares.com
+indostreamix.com
 indoxx1.cash
 indoxxi.bz
 indoxxi.cool
@@ -8952,6 +8965,7 @@ inlovewithboobs.com
 inmaza.co
 inmaza.com
 inmaza.in
+inoxwap.com
 inphonex.com
 inquirycomplaintindia.com
 inquirycomplaintindian.com
@@ -8979,6 +8993,7 @@ ipagal.org
 ipagalworld.co.in
 ipithos.to
 ipl21.cf
+ipl21.gq
 ipl21.ml
 iplapp.com
 iplayboy.com
@@ -9020,6 +9035,7 @@ isaidubb.com
 isaidubb.net
 isaimini.biz
 isaimini.com
+isaimini.gq
 isaimini.mobi
 isaimini.online
 isaimini.watch
@@ -9591,6 +9607,7 @@ kbagi.com
 kdzindex.ga
 keeplinks.co
 keeplinks.eu
+keeplinks.host
 keeplinks.link
 keeplinks.mobi
 keeplinks.xyz
@@ -9917,6 +9934,7 @@ king-movie1.pw
 king-movz.fun
 kingboss.cc
 kingboss.co
+kingboss.guru
 kingboss.in
 kingdompunjab.com
 kingfiles.net
@@ -11300,6 +11318,7 @@ miniloves.ml
 minime.pw
 minimods.wang
 miniparty.club
+miniparty.host
 miniparty.men
 miniparty.space
 miniparty.webcam
@@ -11707,6 +11726,7 @@ movie4in.com
 movie4in.fun
 movie4in.pw
 movie4k.ag
+movie4k.guru
 movie4k.is
 movie4k.link
 movie4k.org
@@ -12033,8 +12053,10 @@ movierulz.eu
 movierulz.fun
 movierulz.gd
 movierulz.gg
+movierulz.gq
 movierulz.gr
 movierulz.gs
+movierulz.ht
 movierulz.ind.in
 movierulz.io
 movierulz.is
@@ -12974,6 +12996,7 @@ moviezen.co
 moviezflix.co.in
 moviezflix.in
 moviezflix.net
+moviezhub.gq
 moviezhub.space
 moviezilla4u.xyz
 moviezjoy.com
@@ -13163,6 +13186,7 @@ mp4mania1.net
 mp4masti.com
 mp4mobilemovies.net
 mp4movie.me
+mp4movies.host
 mp4movies.info
 mp4movies.me
 mp4movies799.online
@@ -13785,6 +13809,7 @@ nn-top.net
 nn17.pw
 nnbuka.com
 nncandy.club
+nnchan.gr
 nnchantop.xyz
 nncloaca.com
 nndio.com
@@ -15403,6 +15428,8 @@ putlocker.fail
 putlocker.fit
 putlocker.fm
 putlocker.gg
+putlocker.gy
+putlocker.haus
 putlocker.info
 putlocker.is
 putlocker.kz
@@ -18514,6 +18541,7 @@ tiny-cams.com
 tiny4k.in
 tiny4k.ru
 tinybabes.xyz
+tinybum.gq
 tinycats.biz
 tinyelena.ga
 tinygirls.net
@@ -18579,6 +18607,7 @@ todaypk.ch
 todaypk.co
 todaypk.com
 todaypk.cz
+todaypk.gq
 todaypk.info
 todaypk.is
 todaypk.kim
@@ -20987,6 +21016,7 @@ xxxshopes.buzz
 xxxspace.pw
 xxxsummer.net
 xxxsweet.cf
+xxxtaboo.gq
 xxxteens.biz
 xxxteenstube.xyz
 xxxtoppy.com
