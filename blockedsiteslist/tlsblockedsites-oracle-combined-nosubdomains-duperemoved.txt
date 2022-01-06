@@ -19219,6 +19219,7 @@ tpbay.in
 tpbay.org
 tpbay.win
 tpbbay.eu
+tpbbayhyper.nl
 tpbclean.com
 tpbclean.info
 tpbclean.pro
@@ -19240,6 +19241,7 @@ tpbproxy.click
 tpbproxy.fans
 tpbproxy.in
 tpbproxy.info
+tpbproxy.nl
 tpbproxy.online
 tpbproxy.org
 tpbproxy.tel
